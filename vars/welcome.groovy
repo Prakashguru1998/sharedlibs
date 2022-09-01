@@ -1,3 +1,3 @@
-def call(name){       #def is the keyword for defining the function 
+def call(name){
 echo "Hey $(name), How are you?"
 }
